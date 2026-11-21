@@ -20,7 +20,7 @@ def main():
 def boi():
     while True:
         try:
-            x = int(input("positive number : "))
+            x = int(input("Positive number : "))
             if 0 >= x:
                 print("Number must be positive")
                 pass
